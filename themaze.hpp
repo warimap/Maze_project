@@ -3,8 +3,8 @@
  * walls.
  * This project is built on top of SDL2 and uses C++17.
  *
- * GitHub: https://github.com/osala-eng/maze-project
- * Author: Jashon Osala
+ * GitHub: https://github.com/warimap/maze-project
+ * Author: Faith warima 
  * c 2023
  */
 
