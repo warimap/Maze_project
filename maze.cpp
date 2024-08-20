@@ -1,9 +1,9 @@
 /**
  * @file maze.cpp
  * @brief Maze implementation.
- * @author Jashon Osala
+ * @author Faith Warima @warimap
  * @version 1.0
- * @date 2023-01-04
+ * @date 2024-20-08
  */
 
 #include <cmath>
