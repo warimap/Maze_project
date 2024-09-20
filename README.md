@@ -22,3 +22,5 @@ then run the command
 ```bash
 make all && ./testfile
 ```
+ ### Blog Post 
+ I have a blog which elaborates more on the project https://dev.to/pharium_warima_06fa901bc9/portfolio-project-blog-post-19p8
